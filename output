@@ -1,0 +1,35 @@
+PROGRAM 1
+
+student@student:~$ ./hello.out
+Hello world
+
+PROGRAM 2
+
+student@student:~$ ./voting.out
+Enter age
+15
+Not Eligible for voting
+student@student:~$ ./voting.out
+Enter age
+20
+Eligible for voting
+
+
+PROGRAM 3
+
+student@student:~$ ./conversion.out
+Enter your choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+1
+Enter the tem in celsius
+60
+converted temperature is = 140
+student@student:~$ ./conversion.out
+Enter your choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+2
+Enter the tem in fahrenhiet
+68
+converted temperature is = 20
